@@ -11,6 +11,7 @@ spring:
     dbname: registration
   jpa:
     hibernate:
+      #Just for develop
       ddl-auto: create-drop
     properties:
       hiberante:
