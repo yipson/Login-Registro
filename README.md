@@ -1,6 +1,6 @@
 # API sistema de Login y registro
 
-##Tecnologias usadas:
+## Tecnologias usadas:
 - Spring boot
 
 - Java 8
